@@ -1,0 +1,83 @@
+span{
+
+    color: orange;
+}
+body{
+    font-family: 'Rubik', sans-serif;
+    margin:0px;
+}
+h1{
+    font-size: 50px;
+    color: rgb(92, 86, 86);
+}
+.thediet{
+    display: flex;
+    
+}
+.half-width{
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.half-width img{
+    width : 100%;
+    padding-bottom: 5%;
+    
+
+}
+p{
+    color: gray;
+}
+.link-button{
+    text-decoration: none;
+    color:whitesmoke;
+    background-color: orange;
+    padding: 20px 50px ;
+    border-radius: 50px;
+    background-image: linear-gradient(to right top,orange, rgb(238, 55, 23));
+    font-weight: 800px;
+}
+.aboutme{
+    display: flex;
+    padding-bottom: 200px;
+   
+    width: 100%;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size:100%;
+    
+    
+}
+#about-me{
+    font-family: 'Mulish', sans-serif;
+   padding-left: 50px;
+   
+}
+
+#Lorem{
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 50px;
+    padding-bottom: 5%;
+}
+
+#female{
+    width : 51%;
+    padding-left: 150px;
+}
+.Alignment{
+    text-align: center;
+    
+}
+.my-recipie{
+    display:-webkit-flex;
+            display: flex;
+    
+}
+.cover-1{
+    
+    box-shadow: 5px 5px   gray;
+}
+.cover-1 img{
+    width: 50%;
+}
